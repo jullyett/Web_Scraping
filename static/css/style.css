@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,700');
+
+html, body{
+    font-family: 'Poppins', sans-serif;
+    padding-bottom: 50px;
+}
+
+.extra_pad{
+    right: 30px;
+    padding-top: 30px;
+}
+
+.padding{
+    margin-top: 30px;
+}
+
+.small{
+    font-size: small;
+}
+
+.smaller{
+    font-size: smaller;
+}
+
+#footer {
+    position: fixed;
+    height: 20px;
+    bottom: 0px; 
+    text-align: center;
+    font-size: small;
+    left: 0px;
+    width: 100%;
+    color: black;
+    background-color:gainsboro;
+}
